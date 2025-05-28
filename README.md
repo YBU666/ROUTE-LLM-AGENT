@@ -49,6 +49,12 @@ The application will open in your default web browser.
 - Folium
 - Geopy
 - Python-dotenv
+##Screenshots
+![images](https://github.com/YBU666/ROUTE-LLM-AGENT/blob/main/images/r1.png?raw=true)
+![images](https://github.com/YBU666/ROUTE-LLM-AGENT/blob/main/images/r2.png?raw=true)
+![images](https://github.com/YBU666/ROUTE-LLM-AGENT/blob/main/images/r3.png?raw=true)
+![images](https://github.com/YBU666/ROUTE-LLM-AGENT/blob/main/images/r4.png?raw=true)
+
 
 ## License
 
